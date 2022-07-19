@@ -12,13 +12,13 @@ cls
 
 @REM ===================================== - USER INPUTS
 
-@rem | Important: You will need python 3.10 installed. If your python is installed somewhere different than the quotes at the bottom of the program, 
-@rem | modify it so it is correct. Leave %pcname% instead of your pc profile name.
-@rem | Make sure this folder is in it's own folder before running.
+@rem | Important: You will need python 3.10 installed. If your python is installed somewhere different than the quotes at the bottom of the program,
+@rem | change the path at the bottom to correct it.
+@rem | Make sure all the source files for this project are in their own folder before running.
 @rem | Python download: https://www.python.org/downloads/
 
-@REM Insert pc name below:
-set pcname=vexeval
+@REM The %USERNAME% variable should work, but if it doesn't, insert pc name below:
+set pcname=%USERNAME%
 
 @REM Insert path to downloader.py. Typically this can be left alone, or set manually if issues are encountered. (EXAMPLE: c:/Users/rickastley/Documents/vex-ytdownloader-portable/downloader.py)
 set path=downloader.py

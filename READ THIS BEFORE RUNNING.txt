@@ -5,4 +5,9 @@ bat file and move the shortcut elsewhere if you want to move the executable.
 
 When the download button is pressed in the interface, the title of the window will change to reflect the status of the download.
 
+Important: You will need python 3.10 installed. If your python is installed somewhere different than the quotes at the bottom of the program,
+change the path at the bottom to correct it.
+Make sure all the source files for this project are in their own folder before running.
+Python download: https://www.python.org/downloads/
+
 v1.0.0
