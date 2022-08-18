@@ -30,7 +30,7 @@ def select_path():
     #allows the user to select the path
     path = filedialog.askdirectory()
     path_label.config(text=path)
-    screen.title('Youtube Download Tool v1.0.1')
+    screen.title('Youtube Download Tool v1.1.0-beta')
 
 # download mp4 video
 def download_file():

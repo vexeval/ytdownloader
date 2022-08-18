@@ -29,6 +29,6 @@ set path=downloader.py
 
 @REM If the downloader.py script is moved or renamed, this file will need to be edited with the updated path.
 
-@echo YT Downloader v1.0.1-beta by Vexeval opened
+@echo YT Downloader v1.1.0-beta by Vexeval opened
 @REM If you have a different version of python, or the project is not opening, try swithing the version below. (EXAMPLE: Python310 for python 3.10, and Python39 for python 3.9)
 "C:/Users/%pcname%/AppData/Local/Programs/Python/Python310/python.exe" "%path%"
