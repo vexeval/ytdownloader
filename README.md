@@ -1,4 +1,4 @@
-﻿# Vex's Youtube Downloader
+# Vex's Youtube Downloader
 
 Hey! This is a simple python project I made so that I, along with others, wouldn't have to navigate sketchy websites when just trying to download a video off of Youtube they find enjoyable. This project is still pretty bear-bones in the releases, so suggestions on how to improve it are greatly appreciated.
 
